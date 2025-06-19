@@ -56,7 +56,7 @@ h5 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-image: url("https://cdn.glitch.global/1500d7f0-a2c8-489c-88a2-d7899293787b/clouds.jpeg?v=1704340625786");
+  background-image: url("./img/clouds.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -85,7 +85,7 @@ h5 {
   border-radius: 10px 10px 10px 10px;
   text-align: left;
   background-color: white;
-  background-image: url("https://cdn.glitch.global/1500d7f0-a2c8-489c-88a2-d7899293787b/notes-bg-black.png?v=1704432785084");
+  background-image: url("./img/notes-bg-black.png");
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 375px;
@@ -97,7 +97,7 @@ h5 {
 /* Style the card for text messages */
 .cardText {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  background-image: url("https://cdn.glitch.global/1500d7f0-a2c8-489c-88a2-d7899293787b/txt-msg.png?v=1704432850592");
+  background-image: url("./img/txt-msg.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding: 20px;
@@ -118,7 +118,7 @@ h5 {
   border-radius: 10px 10px 10px 10px;
   text-align: center;
   background-color: white;
-  background-image: url("https://cdn.glitch.com/02600171-b43e-46dd-a21e-bfc0b9a82267%2Fstationery-155143_960_720.png?v=1618796683465"); /* replace this jpg background with an image of your choosing or you can delete this line and just have a plain background */
+  background-image: url("./img/stationary.png"); /* replace this jpg background with an image of your choosing or you can delete this line and just have a plain background */
   background-position: center;
   background-size: cover;
   font-size: 28px;
@@ -158,7 +158,7 @@ h5 {
   border-radius: 10px 10px 10px 10px;
   text-align: left;
   background-color: #000000;
-  background-image: url("https://cdn.glitch.com/02600171-b43e-46dd-a21e-bfc0b9a82267%2FcatBG.gif?v=1620459338357"); /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
+  background-image: url("./img/catBG.gif"); /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
   color: #68d911;
   font-family: "Source Code Pro", monospace;
   font-size: 14px; 
